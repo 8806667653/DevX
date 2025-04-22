@@ -32,7 +32,7 @@ DevX is transforming the way engineering teams build, debug, and optimize softwa
 
 1. Clone the repo
     
-    git clone https://github.com/yourusername/devx.git
+    git clone https://github.com/8806667653/DevX
     
     cd devx
 
